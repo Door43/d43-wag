@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wag:home|Door43 (wag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wag|d43-wag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wag/archive/master.zip|d43-wag.zip]]
+
+**Recent Changes**
+{{changes>ns = wag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wag|Ethnologue data]]
+
